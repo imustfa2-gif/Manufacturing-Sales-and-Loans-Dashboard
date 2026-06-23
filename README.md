@@ -26,7 +26,7 @@ Dashboard Pages
 Provides quick navigation between dashboard sections.
 ![Home Page](Images/Home_Page.png)
 
-3. Sales Report
+2. Sales Report
 Key metrics include:
 Total Sales
 Profit
@@ -39,6 +39,7 @@ Sales over time
 Sales by type
 Sales vs Purchases comparison
 Monthly performance overview
+![Sales Report](Images/Sales_Report.png)
 
 3. Loans Report
 Tracks customer loans and repayments.
@@ -51,6 +52,7 @@ Additional analysis:
 Loans by month
 Loan repayment trends
 Remaining balances by customer
+![Loans Report](Images/Loans_Report.png)
 
 4. Data Model
 The dashboard uses a relational data model connecting:
@@ -60,6 +62,7 @@ Expenses
 Loans
 Customers
 Date Dimension
+![Data Model](Images/Data_Model.png)
 
 Tools Used
 Power BI
