@@ -24,8 +24,9 @@ Loan repayment status
 Dashboard Pages
 1. Home Page
 Provides quick navigation between dashboard sections.
+!(Images/Home_Page.png)
 
-2. Sales Report
+3. Sales Report
 Key metrics include:
 Total Sales
 Profit
